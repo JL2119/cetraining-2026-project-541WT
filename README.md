@@ -13,3 +13,9 @@
 ## 更新日志
 - 2026年6月25日：完成学生成绩管理系统核心功能
 - 使用AI辅助编写了主程序框架和模块划分
+## 如何运行项目
+
+1. 确保已安装 Python 3.6 或更高版本
+2. 克隆仓库到本地：
+   ```bash
+   git clone https://github.com/JL2119/cetraining-2026-project-541WT.git
